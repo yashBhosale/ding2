@@ -31,7 +31,6 @@ we can call for the bullet to de-instantiate itself.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 
@@ -132,7 +131,7 @@ seems like it’ll be really useful for us, so Matt is planning on doing that so
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
