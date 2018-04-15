@@ -6,6 +6,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+
+333333
+
+
+
+
+##Entry 4
+Now that we've got movement for Elise, we can start working on other mechanics. We're going to start off with a ranged attack,
+because I feel like we can get away with that not really having an animation for Elise. There's a sprite of a fireball which is 
+comically oversized, but it also has exploding animations, so I'm going to use that to test our projectile. It's basically just
+a sprite with a trigger attatched to it. That way when it collides with anything, it'll be able to access its damage function as well
+as run the animation for an explosion. Something really convenient that I found out is that Unity's animation engine allows for 
+an object to call a function specifically during a specified animation. That way, right at the end of the explosion animation, 
+we can call for the bullet to de-instantiate itself.
+
+
+
+
+
+33333333
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -21,7 +44,7 @@ as run the animation for an explosion. Something really convenient that I found 
 an object to call a function specifically during a specified animation. That way, right at the end of the explosion animation, 
 we can call for the bullet to de-instantiate itself.
 
- 
+
 
 
 ##Entry 3
