@@ -1,16 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yashBhosale/ding2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
+## Welcome to the Devlog for Elise: A Warrior's Quest!
 
 
 ## Entry 6 (April 11)
@@ -106,9 +94,6 @@ once I'm finished we want to make a script that will soft-follow Elise (for lack
 being stuck exactly onto Elise's transform. 
 
 
-
-
-
 ## Entry 1 (Jan 31)
 So, this is our first entry for the Devlog of Elise: A warriors quest (working title.) We spent a lot of time 
 thinking about what kind of game we wanted to make, and of course we wanted to make a game that we’d actually 
@@ -124,41 +109,3 @@ just repurposE them for our own needs.
 When Matt and I were working on a previous project, he’d seen a tutorial to create a script that allows the
 game to instantiate objects in specific areas in world-space based on the RGBA values in a PNG file. That
 seems like it’ll be really useful for us, so Matt is planning on doing that soon.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yashBhosale/ding2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
