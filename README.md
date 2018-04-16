@@ -34,7 +34,7 @@ sprite a set amount based on the current movement direction. This gets us into t
 Elise translates into some area that she isn't supposed to because she bypassed some wall that was too thin
 to catch her. we will need to fix that. 
 
-## Entry 4 (march 14)
+## Entry 4 (March 14)
 Now that we've got movement for Elise, we can start working on other mechanics. We're going to start off with a ranged attack,
 because I feel like we can get away with that not really having an animation for Elise. There's a sprite of a fireball which is 
 comically oversized, but it also has exploding animations, so I'm going to use that to test our projectile. It's basically just
