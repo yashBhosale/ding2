@@ -8,7 +8,7 @@ engine, so that she can't just run through walls and stuff.
 
 A while back, matt implemented controller functionality so that we can move around with the controller. This 
 makes playtesting a lot more fun for us. He also tweaked some of the UI elements so that they look better.
-We're also slowly adding clooiders to all of the things that actually need them, so that the world actually
+We're also slowly adding colliders to all of the things that actually need them, so that the world actually
 acts like it's supposed to. At some point we'd like to have it so that all of the grass and dirt is 
 actually just one large map, but that'll probably be one of the last things we ever do. 
 
