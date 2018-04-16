@@ -18,6 +18,8 @@ different enemies- one's going to be a ranged enemy, and we're not sure if the o
 ranged or not. I've also created a better UI that shows off the health- we now have a heart system, so that
 when the player gets hurt they lose a heart. 
 
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/turret.png)
+
 The chest now also has a randomized passive pick up in it, out of 3. This is determined when the chest is
 instantiated- The player either gets a higher base speed, longer dash distance, or lower dash cooldown. 
 We're probably going to make it so that the pickups only last for a certain amount of time, but for now
