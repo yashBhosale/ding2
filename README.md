@@ -54,7 +54,8 @@ the demo level. Thanks to Matt's tool, all I have to do is create a PNG and stic
 see how it works out. We can iterate really quickly thanks to this tool. Each map will be in a different scene,
 and there will probably be specific spawn- and exit- points leading in and out of each scene. They're not really
 levels, but on our side they will be kind of like levels.
-{{images/area5.png}}
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/area5.png)
 
 ## Entry 3 (February 28)
 We just added Unity Collab to our project! It's incredibly useful- until we moved over, we were basically working
@@ -67,7 +68,8 @@ being covered by or covering objects in such a way that we don't want them to. T
 I think that I'll be able to work around this by tying an object's z axis to its y axis. It'll make sense in most 
 if not all cases, because in an isometric world, "down" is considered "closer to the camera"
 
-{{images/Trees.png}}
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/Trees.png)
 
 Matt has implemented a health system- The character has a health value, and there is a counter in the corner of 
 the screen that allows us to see how much health the character has. We created a basic enemy to test it out- it just
@@ -84,7 +86,8 @@ the Past, and cut them out for use as our own sprites. This has given us a littl
 because the sprite for our main character is a tertiary character she doesn’t really have any animation 
 besides walking around. However, we’re going to have to make do with this. There are a pretty decent amount of
 enemy sprites in the game files, though, so that's really nice.
-{{images/someNPCS.png}}
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/someNPCS.png)
 I've created a gameObject for our main character and I'm working on making it functional. I've recently created and
 set up the animations, so now all I have to do is write the code that allows it to move and do other things, like dash.
 
@@ -104,7 +107,8 @@ thinking about what kind of game we wanted to make, and of course we wanted to m
 enjoy playing. I recently played Hyper Light Drifter and have a fair amount of hours in Teleglitch, so I had 
 the idea of making a top-down 2D video game in the style of the old Zeldas. We decided that our protagonist 
 should be a girl, basically because link has never been a girl.
-{{images/woofwoof.png}}
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/woofwoof.png)
 
 
 I'm thinking about making the sprites myself, because I enjoy drawing. I suppose whether or not I do that will depend heavily on
