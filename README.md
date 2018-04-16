@@ -87,7 +87,7 @@ because the sprite for our main character is a tertiary character she doesn’t 
 besides walking around. However, we’re going to have to make do with this. There are a pretty decent amount of
 enemy sprites in the game files, though, so that's really nice.
 
-![ding](https://yashbhosale.github.io/yashandmattareawesome/images/someNPCS.png)
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/someNPCs.png)
 I've created a gameObject for our main character and I'm working on making it functional. I've recently created and
 set up the animations, so now all I have to do is write the code that allows it to move and do other things, like dash.
 
@@ -116,7 +116,8 @@ whether or not I actually ever get the time to do that. I have also never drawn 
 really know how to go about doing that. Our backup plan is to go take sprites from old games like Zelda: Link to the Past and
 just repurposE them for our own needs.
 
-{{images/screenshot.png}}
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/screenshot.png)
 
 When Matt and I were working on a previous project, he’d seen a tutorial to create a script that allows the
 game to instantiate objects in specific areas in world-space based on the RGBA values in a PNG file. That
