@@ -30,7 +30,7 @@ for now it's strictly keyboard based.
 
 For expediency, we ask that you follow a couple rules.
 
-* If you'd rather email me your suggestions, do it [here.] (bhosaley5@gmail.com) I check my email all the time.
+* If you'd rather email me your suggestions, do it [here.](bhosaley5@gmail.com) I check my email all the time.
 * Put your feedback in a word/odt file, so that we can easily store/catalogue it.
 * Title the email and/or word file as <Some Identifiable Name> Playtest Feedback, so we know who suggested what.
 * Format your suggestions as a list such that each item is its own discrete idea. This makes reading through them
