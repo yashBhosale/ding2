@@ -3,11 +3,15 @@
 ## Entry 8 (April 29)
 So tomorrow is the big presentation! We've spent the last few days doing a LOT of tweaking and balancing to try and make the game fun but also difficult! Making it a top down souls-like was the end goal after all! We changed the behaviour of our basic enemy so that it is a lot more dangerous, but less buggy! But to balance that out, they actually have line of sight, meaning you can hide! We have also added a few more sound effects into the game, like the turret firing and projectile exploding. Our win condition has also changed up a bit. Now, instead of just immediately winning after finding the 3 keys, you have a use for them! Those 3 keys let you interact with a portal in our hub world that takes you to the win screen! We also added a death screen that lets you restart from the area you were in, instead of having to start entirely over when you die. 
 
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/LERP.PNG)
+
 Some of the minor changes we've done include adding colliders to a lot of the world boundaries and trees and fences. We also fixed a bug where Elise starting dashing farther if her speed was increased. Camera movement was changed a bit so that Elise isn't on the edge of the camera the whole time, it actually linearly interpolates to her position over time so that the player can see a bit farther ahead of them. It's been a great semester putting our development skills to the test, and we can't wait to show off what we've done so far tomorrow! 
 
 ## Entry 7 (April 25)
 The world is a little less dull now that we have sound! We have an audiomanager now that has a list of the sounds in the game and can easily be called from anywhere we want in our codebase, making it really easy to add sound effects and music to our levels. 
 We'll be tweaking these to make sure players get good auditory feedback for different attacks and events. We also implmented a full tutorial for players at the beginning, with a dialogue system for signs that can provide useful information about the game's mechanics and end goal.
+
+![ding](https://yashbhosale.github.io/yashandmattareawesome/images/PORTAL.PNG)
 
 Speaking of end goal, we've actually added one! Elise has to find 3 chests that contain keys to beat the level! These keys are in the 3 subsections of the level. Alongside those major changes, we've been tweaking the AI for the basic enemy and fixing some bugs in its movement. Occassionally it decides it wants to shoot off into infinity! We've had some playtesters give us feedback on dashing and have decided to lower it a bit, since they felt that it made the game super easy to get through. We're slowly approaching our final exam, so we have lots of progress to make! 
 
